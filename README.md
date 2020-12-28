@@ -7,6 +7,5 @@ Se tiene en este repositorio:
 2. Script para obtener el hash SHA256 (adicional a MD5) de cualquier cadena de texto, que se pasara como parametro.
 
 Ejemplo: 
-'''sh
-getFlag.py "Texto a codificar"
-'''
+
+    root@kali:$  getFlag.py "Texto a codificar"
