@@ -10,4 +10,9 @@ Ejemplo:
 
     root@kali:$  getFlag.py "Texto a codificar"
 
-# Script para buscar una cadena de texto dentro de un comprimido
+# Script-buscar-cadena
+Script en Python para buscar una cadena de texto dentro un fichero comprimido.
+
+Ejemplo de Uso:
+
+python3 buscar-buscar-cadena.py "texto a buscar" fichero.tar.gz
