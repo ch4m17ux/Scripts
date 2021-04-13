@@ -9,3 +9,5 @@ Se tiene en este repositorio:
 Ejemplo: 
 
     root@kali:$  getFlag.py "Texto a codificar"
+
+# Script para buscar una cadena de texto dentro de un comprimido
