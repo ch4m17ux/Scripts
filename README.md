@@ -15,4 +15,4 @@ Script en Python para buscar una cadena de texto dentro un fichero comprimido.
 
 Ejemplo de Uso:
 
-python3 buscar-buscar-cadena.py "texto a buscar" fichero.tar.gz
+python3 buscar-cadena-tar.py "texto a buscar" fichero.tar.gz
