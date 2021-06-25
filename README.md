@@ -50,8 +50,11 @@ Ejemplo:
 
 se debe digitar la cadena a descifrar dentro del script:
 
-```...
+```
+...
 string = 'GCGCCAAAGACTTTCTTGCTACACCGAATTCATTTC'
-...```
+...
+```
 
+Ejecutar el script
 ```python2 dnacode.py```
