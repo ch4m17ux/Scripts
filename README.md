@@ -1,3 +1,7 @@
+## SCRIPTS VARIOS
+
+Aqui pretendo ir publicando scripts que me han servidor para una u otra utilidad.
+
 # script-hash
 Scripts escritos en python para obtener el hash de una cadena de texto.
 
