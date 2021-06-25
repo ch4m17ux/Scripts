@@ -1,8 +1,8 @@
-## SCRIPTS VARIOS
+# SCRIPTS VARIOS
 
 Aqui pretendo ir publicando scripts que me han servidor para una u otra utilidad.
 
-# script-hash
+## script-hash
 Scripts escritos en python para obtener el hash de una cadena de texto.
 
 Se tiene en este repositorio:
@@ -14,14 +14,14 @@ Ejemplo:
 
 ```    root@kali:$  getFlag.py "Texto a codificar"```
 
-# Script-buscar-cadena
+## Script-buscar-cadena
 Script en Python para buscar una cadena de texto dentro un fichero comprimido tar.gz
 
 Ejemplo de Uso:
 
 ```python3 buscar-cadena-tar.py "texto a buscar" fichero.tar.gz```
 
-# Script-generar-p_q-RSA
+## Script-generar-p_q-RSA
 Script en pyhton que genera los valores p y q, de un cifrado RSA, teniendo el exponente y el valor N.
 
 Ejemplo:
@@ -32,7 +32,7 @@ N = 1680992444271229029040397226814640472913633739838754358558792238569123220520
 delta = 50
 ```
 
-# Script rsatool.py
+## Script rsatool.py
 rsatool calcula los parametros RSA (p, q, n, d, e) and RSA-CRT (dP, dQ, qInv) dados dos primos (p, q) o modulo y exponente privado (n, d).
 
 Los parámetros resultantes se muestran y, opcionalmente, se pueden escribir como una clave privada RSA codificada en PEM o DER compatible con OpenSSL.
@@ -47,7 +47,7 @@ Supliendo dos primos, Salida DER a key.der:
 
 ```python rsatool.py -f DER -o key.der -p 4184799299 -q 3303891593```
 
-# Script dnadecode.py
+## Script dnadecode.py
 Script que decodifica un string en cifrado DNA a caracteres ascii:
 
 Ejemplo:
@@ -63,5 +63,5 @@ string = 'GCGCCAAAGACTTTCTTGCTACACCGAATTCATTTC'
 Ejecutar el script
 ```python2 dnacode.py```
 
-# Script decode_bacon.py
-Script que decodifica un string en cifrado bacon:
+## Script decode_bacon.py
+Script que decodifica un string en cifrado bacon.
