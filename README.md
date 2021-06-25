@@ -58,3 +58,6 @@ string = 'GCGCCAAAGACTTTCTTGCTACACCGAATTCATTTC'
 
 Ejecutar el script
 ```python2 dnacode.py```
+
+# Script decode_bacon.py
+Script que decodifica un string en cifrado bacon:
