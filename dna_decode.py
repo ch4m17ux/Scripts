@@ -1,3 +1,4 @@
+#/usr/bin/python2
 mapping = {
 'AAA':'a',
 'AAC':'b',
