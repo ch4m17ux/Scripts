@@ -65,3 +65,6 @@ Ejecutar el script
 
 ## Script decode_bacon.py
 Script que decodifica un string en cifrado bacon.
+
+## Script request.py
+Script que saca los datos de una web y extrae la informacion para sumar dos numeros, enviando la respuesta. Reto de PaellaCTF donde se nos pedia sumar rapidamente dos numeros y enviar el resultado antes de 5 segundos para obtener la flag.
