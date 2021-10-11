@@ -18,3 +18,6 @@ if len(sys.argv) == 2:
 else:
     print("Error - Introduce los argumentos correctamente")
     print('Ejemplo: getFlag.py "Texto a codificar"')
+
+    
+    
