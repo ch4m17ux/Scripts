@@ -3,8 +3,11 @@
 
 import requests
 from bs4 import BeautifulSoup
+
+
 r = requests.get("http://161.97.119.134:5000/m3g4k4bu_s3cre7")
 soup = BeautifulSoup(r.text ,"lxml")
+# soup.find busca la etiqueta, luego obtiene el texto y lo divide guardandolo en un array
 data = soup.find("p").get_text().split(" ")
 
 print(" ")
