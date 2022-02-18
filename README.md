@@ -68,3 +68,6 @@ Script que decodifica un string en cifrado bacon.
 
 ## Script request.py
 Script que saca los datos de una web y extrae la informacion para sumar dos numeros, enviando la respuesta. Reto de PaellaCTF donde se nos pedia sumar rapidamente dos numeros y enviar el resultado antes de 5 segundos para obtener la flag.
+
+## Script miniRSA.py
+Script para obtener el mensaje cifrado cuando se tiene un exponente muy pequeño en RSA.  Este script se ha buscado y generado basado en los retos de picoCTF.
